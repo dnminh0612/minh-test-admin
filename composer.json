@@ -14,7 +14,8 @@
         "laravel/tinker": "^1.0",
         "symfony/dotenv": "^4.3",
         "tcg/voyager": "^1.2",
-        "ext-gd":" *"
+        "ext-gd":" *",
+        "ext-exif":"*"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
